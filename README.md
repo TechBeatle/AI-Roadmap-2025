@@ -9,7 +9,7 @@
 ## Understanding LLMs from Scratch
 - [Understanding LLMs from Scratch](https://towardsdatascience.com/understanding-llms-from-scratch-using-middle-school-math-e602d27ec876/)
 
-## A Practical Introduction to LLMs (Series)
+## A Practical Introduction to LLMs
 - Introduction: [Video](https://youtu.be/tFHeUSJAYbE?si=hBFH1g7OAAeORf32) | [Blog](https://towardsdatascience.com/a-practical-introduction-to-llms-65194dda1148)
 - OpenAI API: [Video](https://youtu.be/czvVibB2lRA?si=Ix2t3v99M8gH_dND) | [Blog](https://towardsdatascience.com/cracking-open-the-openai-python-api-230e4cae7971) | [Code](https://github.com/ShawhinT/YouTube-Blog/tree/main/LLMs/openai-api)
 - Hugging Face API: [Video](https://youtu.be/jan07gloaRg?si=8ZLUUsnQTnAZ9yIp) | [Blog](https://towardsdatascience.com/cracking-open-the-hugging-face-transformers-library-350aa0ef0161) | [Code](https://github.com/ShawhinT/YouTube-Blog/tree/main/LLMs/hugging-face)
