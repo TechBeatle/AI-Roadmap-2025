@@ -1,4 +1,4 @@
-# AI-Roadmap-2025
+# AI & ML Resources
 
 ## Microsoft's AI Course for Beginners
 - [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
