@@ -1,4 +1,4 @@
-# AI & ML Resources
+# AI & ML Learning Path
 
 ## Microsoft's AI Course for Beginners
 - [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
